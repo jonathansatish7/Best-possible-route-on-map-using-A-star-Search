@@ -1,4 +1,4 @@
-### PART 2: ROAD TRIP!
+### ROAD TRIP!
 
 #### Design
 
